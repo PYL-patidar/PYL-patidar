@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Aspiring DevOps Engineer  
 I'm currently building my skills in DevOps, Cloud, Automation, and Python, with a focus on hands-on projects and real-world use cases.  
 
-##🛠️ Tech Stack  
+## 🛠️ Tech Stack  
 - 🐧 Linux & Shell Scripting  
 - 🐍 Python  
 - 🌐 FastAPI & REST APIs  
