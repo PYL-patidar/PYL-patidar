@@ -46,6 +46,7 @@ I'm currently building my skills in DevOps, Cloud, Automation, and Python, with 
 To start my career as a DevOps / Cloud Engineer and continue growing through hands-on automation, cloud infrastructure and production-focused problem solving.  
 
 ## 📫 Connect With Me  
-LinkedIn: www.linkedin.com/in/payal-patidar3001  
+
+LinkedIn: www.linkedin.com/in/payal-patidar3001 
+
 Email: patidarpayal654@gmail.com  
-GitHub: You're already here 😊  
