@@ -19,27 +19,23 @@ I'm currently building my skills in DevOps, Cloud, Automation, and Python, with 
 
 ## 🛠️ Tech Stack  
 - 🐧 Linux & Shell Scripting  
-- 🐍 Python  
-- 🌐 FastAPI & REST APIs  
+- 🐍 Python   
 - 🐳 Docker  
 - ☸️ Kubernetes  
 - ☁️ AWS  
 - 🔄 Git & GitHub  
-- 🚀 GitHub Actions / CI/CD  
-- 🏗️ Terraform — Learning  
+- 🚀 GitHub Actions / CI/CD    
 
 ## 🚀 What I'm Working On  
 - Building Python-based DevOps automation tools  
 - Automating AWS operations using Python  
 - Working with Docker and Kubernetes
 - Building CI/CD pipelines
-- Learning Infrastructure as Code with Terraform
 - Improving my Linux and cloud troubleshooting skills  
 
 ## 📌 Featured Projects  
 - Internal DevOps Utility API Python + FastAPI based utility for system metrics and AWS automation.
 - AWS Resource Automation Python automation for identifying and managing unused/old AWS resources.
-- Kubernetes Health Checker DevOps utility for checking Kubernetes pods, nodes, deployments and resource health.
 - CI/CD Pipeline Automated testing, Docker image building and deployment using GitHub Actions.
 
 ## 🎯 Career Goal  
